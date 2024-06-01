@@ -20,11 +20,11 @@ The 3d shape recognition toolkit exposes the following new functionalities insid
 </p>
 
 ### ii. Automated Shape Clusters
-
+(WIP) <br>
 The GIF illustrates automated generation of shape clusters from an unlabelled collection of objects.
 
 ### iii. Difference Volume Generation across similar looking meshes
-
+(WIP) <br>
 The GIF illustrates the generation of shape volumes for finding out shape differences.
 
 ___
