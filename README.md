@@ -1,4 +1,4 @@
-# Shape Recognition and Clustering
+# 3D Shape Recognition and Clustering
 A mesh clustering tool for Rhino3D. It can filter out similar 3d meshes from mesh pools. The tool is sensitive to minute changes in shapes of meshes. So even meshes with similar face counts but varied topologies can be differentiated successfully.
 
 <p align="center" width="100%">
