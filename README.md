@@ -32,12 +32,12 @@ The tool automatically clusters unique 3d meshes from an ordered collection of m
 <p align="center" width="100%">
 <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2.gif" width="600" /> <br>
 <i> The GIF illustrates automated generation of shape clusters from an unlabelled collection of mesh objects.</i> <br> 
-  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_1.png" width="500" />
-<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_474.png" width="500" /> <br>
-  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_682.png" width="500" /> 
-  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_775.png" width="500" /><br>
-  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_868.png" width="500" /> 
-  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_458.png" width="500" /> <br>
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_1.png" width="400" />
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_474.png" width="400" /> <br>
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_682.png" width="400" /> 
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_775.png" width="400" /><br>
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_868.png" width="400" /> 
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_458.png" width="400" /> <br>
 <i> Images above showcase the automated clustering process in sequence. </i>
   <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_resized3.gif" width="600" /> <br>
 <i> The GIF takes a closer look at the dataset of 3d meshes. </i>i><br>
