@@ -2,8 +2,8 @@
 A mesh clustering tool for Rhino3D. It can filter out similar 3d meshes from mesh pools. The tool is sensitive to minute changes in shapes of meshes. So even meshes with similar face counts but varied topologies can be differentiated successfully.
 
 <p align="center" width="100%">
-<img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="500" />
-<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="500" />
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="400" />
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="400" />
   <br>
 </p>
 
