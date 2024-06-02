@@ -2,7 +2,9 @@
 A mesh clustering tool for Rhino3D. It can filter out similar 3d meshes from mesh pools. The tool is sensitive to minute changes in shapes of meshes. So even meshes with similar face counts but varied topologies can be differentiated successfully.
 
 <p align="center" width="100%">
-<img src="https://github.com/gasingh/shapeRecognition/blob/main/ViewCapture20240531_005832.jpg" width="400" /> <br>
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/meshFaceListMapper_and_builder_%20diverseMeshesFilter%26Align_03%20-%20Copy__newViews_run1_frame_5.png" width="500" />
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_112.png" width="500" />
+  <br>
 </p>
 
 `#statistics` `#linear-algebra` `#unsupervised learning` `#ML` `#applied-maths` `#3d` `#computational geometry`
@@ -19,19 +21,31 @@ The 3d shape recognition toolkit exposes the following new functionalities insid
 4. **Relevance in Archeology Research**: This can be an useful tool in finding similar shaped scanned artifacts in digital archives, and can be used by Archeologists who are interested in differentiating 3d artifacts based on minute details, and subtle variation of those details. Eg. the rim of the base of a ceramic cup/ the handles of kettles can vary across artifacts from different historic periods. All these are relevant important details, and this tool can help capture them.
 
 ## Documentation
-### i. Mesh Picker from Mesh Pool
+### i. Picker from Mesh Pool
 <p align="center" width="100%">
 <img src="https://github.com/gasingh/shapeRecognition/blob/main/240530_meshSimilarity_pickFromMeshPool.gif" width="600" /> <br>
-  The GIF illustrates the shape selection functionality.
+  _The GIF illustrates the shape selection functionality._ <br>
 </p>
 
 ### ii. Automated Shape Clusters
-(WIP) <br>
-The GIF illustrates automated generation of shape clusters from an unlabelled collection of objects.
+The tool automatically clusters unique 3d meshes from an ordered collection of meshes.
+<p align="center" width="100%">
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2.gif" width="600" /> <br>
+<i> The GIF illustrates automated generation of shape clusters from an unlabelled collection of mesh objects.</i> <br> 
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_1.png" width="500" />
+<img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_474.png" width="500" /> <br>
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_682.png" width="500" /> 
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_775.png" width="500" /><br>
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2_edit2_frame_868.png" width="500" /> 
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_frame_458.png" width="500" /> <br>
+<i> Images above showcase the automated clustering process in sequence. </i>
+  <img src="https://github.com/gasingh/shapeRecognition/blob/main/240601_shapeClusters_run2-zoomInLook_edit3_resized3.gif" width="600" /> <br>
+<i> The GIF takes a closer look at the dataset of 3d meshes. </i>i><br>
+</p>
 
 ### iii. Difference Volume Generation across similar looking meshes
 (WIP) <br>
-The GIF illustrates the generation of shape volumes for finding out shape differences.
+_The GIF illustrates the generation of shape volumes for finding out shape differences._
 
 ___
 
