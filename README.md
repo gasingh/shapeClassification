@@ -24,7 +24,7 @@ The 3d shape recognition toolkit exposes the following new functionalities insid
 ### i. Picker from Mesh Pool
 <p align="center" width="100%">
 <img src="https://github.com/gasingh/shapeRecognition/blob/main/240530_meshSimilarity_pickFromMeshPool.gif" width="600" /> <br>
-  _The GIF illustrates the shape selection functionality._ <br>
+<i> The GIF illustrates the shape selection functionality.</i> <br>
 </p>
 
 ### ii. Automated Shape Clusters
