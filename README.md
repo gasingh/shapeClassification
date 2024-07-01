@@ -47,5 +47,4 @@ The tool automatically clusters unique 3d meshes from an ordered collection of m
 (WIP) <br>
 _The GIF illustrates the generation of shape volumes for finding out shape differences._
 
-___
 
