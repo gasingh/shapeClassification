@@ -16,7 +16,7 @@ The 3d shape recognition toolkit exposes the following new functionalities insid
 
 ## Use cases
 1. **3D Geometry Clustering**: The tool allows for generation of 3d shape based estimates.
-2. **Relevance in Architecture, Engineering and Construction**: Imagine a complex geometry facade with thousands of different mesh families spread across. The tool can automatically cluster and count unique shapes, and provide family clustering estimates. This information is exceptially useful in cost analysis and value engineering phases of building facades. An interesting exemplary project which demostrates the need for such a 3d analysis tool is this skyscraper from Zaha Hadid Architects in Melbourne, Australia. [Mandarin Oriental, Melbourne – Zaha Hadid Architects](https://www.zaha-hadid.com/interior_design/600-collins-street-melbourne/). The need arises when shape moulds need to be calculated for real-world manufacturing/ production. This is where counting shape families becomes crucial.
+2. **Relevance in Architecture, Engineering and Construction**: Automated clustering of families.
 
 4. **Relevance in Archeology Research**: This can be an useful tool in finding similar shaped scanned artifacts in digital archives, and can be used by Archeologists who are interested in differentiating 3d artifacts based on minute details, and subtle variation of those details. Eg. the rim of the base of a ceramic cup/ the handles of kettles can vary across artifacts from different historic periods. All these are relevant important details, and this tool can help capture them.
 
